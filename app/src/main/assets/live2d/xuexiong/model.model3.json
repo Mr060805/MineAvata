@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "model.moc3",
+		"Textures": [
+			"texture_00.png",
+			"texture_01.png"
+		],
+		"Physics": "model.physics3.json",
+		"DisplayInfo": "model.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "1 帽",
+				"File": "1 帽.exp3.json"
+			},
+			{
+				"Name": "10 星星眼",
+				"File": "10 星星眼.exp3.json"
+			},
+			{
+				"Name": "2 手机",
+				"File": "2 手机.exp3.json"
+			},
+			{
+				"Name": "3 麦克",
+				"File": "3 麦克.exp3.json"
+			},
+			{
+				"Name": "4 手柄",
+				"File": "4 手柄.exp3.json"
+			},
+			{
+				"Name": "5 外套",
+				"File": "5 外套.exp3.json"
+			},
+			{
+				"Name": "6 泪",
+				"File": "6 泪.exp3.json"
+			},
+			{
+				"Name": "7 害羞",
+				"File": "7 害羞.exp3.json"
+			},
+			{
+				"Name": "8 生气",
+				"File": "8 生气.exp3.json"
+			},
+			{
+				"Name": "9 爱心眼",
+				"File": "9 爱心眼.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

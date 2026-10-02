@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- mr_new.svg 的 M：原坐标在 1000×1000 画布，scale 后居中到 108×108 -->
+    <group
+        android:scaleX="0.037601"
+        android:scaleY="0.037601"
+        android:translateX="36"
+        android:translateY="33.3">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M 0 200 A 100 100 0 0 1 176.6044 135.7212 L 478.7146 495.7621 L 780.8248 135.7212 A 100 100 0 0 1 957.4292 200 L 957.4292 965 L 757.4292 965 L 757.4292 474.7482 L 555.3190 715.6134 A 100 100 0 0 1 402.1102 715.6134 L 200 474.7482 L 200 965 L 0 965 L 0 200 Z" />
+    </group>
+</vector>

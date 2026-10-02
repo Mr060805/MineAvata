@@ -1,0 +1,17 @@
+# Gradle / Android 构建产物
+*.iml
+.gradle/
+.kotlin/
+build/
+/local.properties
+/.idea
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# 签名密钥与密码,严禁入库
+keystore/
+
+# 本地调试产物
+.name_check.txt

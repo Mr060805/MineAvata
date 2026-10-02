@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 纯 Compose 应用：用无 ActionBar 的平台主题即可 -->
+    <style name="Theme.MineAvata" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
